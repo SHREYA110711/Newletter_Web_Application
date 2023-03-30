@@ -31,3 +31,12 @@ failure.html
  
 If an error occurs, this page will be displayed and user can redirect to the home page using "Try Again" button.
 
+Usage
+
+>Enter your first name, last name, and email address in the sign-up form and click "Sign Up".
+
+
+>The application will send a request to the MailChimp API to add the email address to the specified list.
+
+
+>If the request is successful, the user will be redirected to a success page. If there is an error, the user will be redirected to a failure page.
